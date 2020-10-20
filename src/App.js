@@ -17,5 +17,24 @@ function App() {
       </div>
   );
 }
-
 export default App;
+
+
+<div className="component">
+<div>
+    <h2>Numbers</h2>
+    <button> onClick={handleClick}Increment</button>
+</div>
+</div>
+
+
+
+    // <div id="numberbuttons" class="componentB">
+    // <h2>Numbers</h2>
+    // <form>
+    //     <input type="button" onclick="incrementValue()" value="Increment Value" /> 
+    //     <input type="text" id="number" value="0" size="10" />
+    //     <input type="button" onclick="decrementValue()" value="Decrement Value" /> 
+    // </form>
+    // <p id="greeting-text"></p>
+    // </div>
